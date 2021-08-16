@@ -1,11 +1,11 @@
 body{
     margin:0;
-    background: chocolate;
+    background: rgb(134, 112, 97);
     padding: 0%;
 }
 
 nav{
-    background: pink;
+    background: rgb(201, 5, 38);
     padding: 0 10px;
     justify-content: space-between;
     align-items: center;
